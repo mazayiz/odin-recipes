@@ -1,0 +1,11 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+    color: red;
+}
+
+p {
+    font-weight: 400%; 
+}
